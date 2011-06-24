@@ -1,0 +1,1050 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nelo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-23 12:42+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richie_KS <rkcorp@dezzain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\buddytest\\wp-content\\themes\\wpmu-nelo\n"
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:21
+msgid "This is box left header"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:28
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:90
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:152
+msgid "All you need to do is to visit your <a href=\"wp-admin/themes.php?page=custom-homepage.php\">Custom Homepage Images</a> tab and upload new images (you can crop them after uploading) and enter text and links to replace this text."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:53
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:323
+msgid "Home Box Left"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:83
+msgid "This is box center header"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:114
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:332
+msgid "Home Box Center"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:145
+msgid "This is box right header"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/bottom-content.php:176
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:341
+msgid "Home Box Right"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:9
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:12
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:25
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:35
+msgid "No Comments Yet"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:25
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:35
+msgid "1 Comment Already"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:25
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:35
+msgid "% Comments Already"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:46
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:72
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:61
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:37
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:72
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:107
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:80
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:102
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:88
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:135
+#, php-format
+msgid "Logged in as %s."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:88
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:135
+msgid "Log out &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:94
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:114
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:94
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:99
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:114
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:119
+msgid "(required)"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:99
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:119
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:104
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:124
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-new.php:115
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:146
+msgid "Submit Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:50
+msgid "says:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:54
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/index.php:36
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-news.php:19
+msgid "edit"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/comments-old.php:57
+msgid "Your Comment Is Under Moderation"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:31
+msgid "Other News &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:70
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:96
+msgid "You can replace ever area on this page with a new text in <a href=\"wp-admin/themes.php?page=custom-homepage.php\">your theme options</a> or <a href=\"wp-admin/themes.php?page=custom-homepage.php\">upload and crop new images</a> to replace the ones you can see here already."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:105
+msgid "Latest News &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:137
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:314
+msgid "Home Top Right"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:139
+msgid "Top Right Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/custom-homepage.php:141
+msgid "All you need to do is to visit your <a href=\"wp-admin/widgets.php\">widget</a> tab replace this with your widget"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/footer.php:8
+msgid "Powered by"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:45
+msgid "Main Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:176
+msgid "First"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:191
+msgid "Last"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:256
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:282
+msgid " Read full article &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:306
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:375
+msgid "Choose your layout mode?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:384
+msgid "Main Intro Box Setting? *only required if you are using the custom homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:394
+msgid "Choose your background colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:403
+msgid "Choose your content background colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:411
+msgid "Choose your body <strong>line</strong> colour? *grid lines and separate lines"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:431
+msgid "Background Images Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:441
+msgid "Background Images Attachment"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:451
+msgid "Background Images Horizontal Position"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:461
+msgid "Background Images Vertical Position"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:470
+msgid "Choose your global body font?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:506
+msgid "Choose your global headline font"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:542
+msgid "Choose your font size here?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:551
+msgid "Change your global body font colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:560
+msgid "Choose your prefered links colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:568
+msgid "Choose your prefered links <strong>hover</strong> colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:577
+msgid "Choose your prefered <strong>post title</strong> links colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:586
+msgid "Choose your prefered navigation and footer colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:595
+msgid "Choose your prefered navigation hover background colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:604
+msgid "Choose your prefered navigation dropdown background colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:612
+msgid "Choose your prefered navigation dropdown <strong>hover</strong> background colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:620
+msgid "Choose your prefered navigation dropdown <strong>separate line</strong> colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:629
+msgid "Choose your prefered navigation link text colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:638
+msgid "Choose your prefered navigation link text hover colour?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:647
+msgid "Do you want to used breadcrumb navigation in posts and pages<br />*default: enable"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:665
+msgid "Do you want to used the custom image header *default: disabled"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:674
+msgid "Insert your desired custom header height?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:682
+msgid "Enter a link for your custom image header<br />*default: link to homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:691
+msgid "Show a login panel and logged in users profile?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:699
+msgid "Do you want to used the social bar in posts?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:708
+msgid "Enter some information about yourself or the site (only displayed if the login panel is enabled)"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:734
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2202
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2617
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3026
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3432
+msgid " settings saved."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:735
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2203
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2618
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3027
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3433
+msgid " settings reset."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:744
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1113
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:746
+msgid "Configure the style, function and design of your site below:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:765
+msgid "Blog Main Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:812
+msgid "Blog Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:870
+msgid "Blog Fonts Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:922
+msgid "Profile Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:982
+msgid "Navigation &amp; Footer Colour Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1030
+msgid "Custom Image Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1076
+msgid "Save Options"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1083
+msgid "Reset Options"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1113
+msgid " Options"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1222
+msgid "Top header image direct link to? *http://www.sitename.com"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1234
+msgid "Your homepage intro header title"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1242
+msgid "Your homepage intro text"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1250
+msgid "Intro header image direct link to? *http://www.sitename.com"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1261
+msgid "Your homepage box left header title"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1269
+msgid "Your homepage box left text"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1277
+msgid "Choose your featured category in box left?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1285
+msgid "Box left image direct link to? *http://www.sitename.com"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1296
+msgid "Your homepage box center header title"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1304
+msgid "Your homepage box center text"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1312
+msgid "Choose your featured category in box center?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1321
+msgid "Box center image direct link to? *http://www.sitename.com"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1333
+msgid "Your homepage box right header title"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1341
+msgid "Your homepage box right text"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1350
+msgid "Choose your featured category in box right?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1359
+msgid "Box right image direct link to? *http://www.sitename.com"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1604
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1668
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2016
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2080
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2429
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2494
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2838
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2902
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3239
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3305
+msgid "Only"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1604
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1668
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2016
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2080
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2429
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2494
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2838
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2902
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3239
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3305
+msgid "images accepted for upload"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1609
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1673
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2021
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2085
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2435
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2500
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2843
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2907
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3246
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3312
+msgid "ONLY images under 1MB are accepted for upload"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1612
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1676
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2024
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2088
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2438
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2503
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2846
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2910
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3249
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3315
+msgid "Select an image for upload"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1726
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2142
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2556
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2967
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3373
+msgid "Your Cropped Image Currently Loading"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1785
+msgid "All images deleted and settings reset"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1789
+msgid " settings saved"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1790
+msgid " settings reset"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1795
+msgid "Blog Top Header Image Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1806
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2220
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2634
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3042
+msgid "Your Cropped Image Currently Deleting"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1816
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2230
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2644
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3052
+msgid "Your Image Currently Deleting"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1828
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2239
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2653
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3062
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3471
+msgid "Error!&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1833
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2242
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2657
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3474
+msgid "<p><strong>NOTE:</strong> Successfully uploaded and cropped thumbnail, if you want to delete or replace the image, just press delete and reupload and recrop the new image</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1836
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1842
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2245
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2251
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2660
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2666
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3069
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3075
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3477
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3483
+msgid "Delete This Image"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1839
+msgid "<p><strong>NOTE:</strong> Successfully uploaded the image, if you want to delete or replace the image, just press delete and reupload the new image</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1850
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2261
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2675
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3084
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3492
+msgid "Crop And Save Your Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1861
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2273
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2687
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3096
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3504
+msgid "Save Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1869
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2280
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2696
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3103
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3511
+msgid "Upload Photo"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1873
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2283
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2699
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3106
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3514
+msgid "Upload and Crop"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1873
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2284
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2699
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3106
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3514
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3907
+msgid "Upload"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1875
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2285
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2700
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3107
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3515
+msgid "only"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1875
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2285
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2700
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3107
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3515
+msgid "image file are allowed"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1886
+msgid "Homepage Top Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1926
+msgid "Save Links"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:1934
+msgid "Reset Links"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2209
+msgid "Blog Intro Header Image Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2248
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2663
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3072
+msgid "<p><strong>NOTE:</strong> Successfully uploaded image, if you want to delete or replace the image, just press delete and reupload the new image</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2292
+msgid "Homepage Intro Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2336
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2749
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3155
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3561
+msgid "Save Text"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2344
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2755
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3161
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3567
+msgid "Reset Text"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2624
+msgid "Blog Box Left Image Upload And Crop"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:2708
+msgid "Homepage Box Left Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3032
+msgid "Blog Box Center Image Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3066
+msgid "<p><strong>NOTE:</strong> Successfully upload and crop thumbnail, if you want to delete or replace the image, just press delete and reupload and recrop the new image</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3114
+msgid "Homepage Box Center Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3440
+msgid "Blog Box Right Image Upload And Crop"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3480
+msgid "<p><strong>NOTE:</strong> Successfully uploaded images, if you want to delete or replace the image, just press delete and reupload the new image</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3522
+msgid "Homepage Box Right Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3579
+msgid "Delete all images and reset all text options"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3776
+msgid "Custom Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3844
+msgid "Custom Images Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3845
+msgid "If you wish to use an background image or pattern, please upload it using the tools below."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3862
+msgid "The image name contain invalid character, rename it and try upload it again"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3896
+msgid "Delete"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3905
+msgid "Upload Images And Patterns"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3938
+msgid "Delete All Gallery Images"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/functions.php:3951
+msgid "Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/header.php:92
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/header.php:98
+msgid "RSS Feed"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/header.php:95
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/index.php:15
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:3
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:14
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:16
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:18
+msgid "Archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:7
+msgid "Tag archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:35
+msgid "This user hasn't shared any biographical information"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:39
+msgid "Homepage:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:40
+msgid "Yahoo Messenger:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:41
+msgid "Jabber/GTalk:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:42
+msgid "AIM:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/headline.php:49
+msgid "Search result for"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/home.php:24
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/index.php:36
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-news.php:19
+msgid "Posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/home.php:24
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/index.php:36
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-news.php:19
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/home.php:31
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/index.php:44
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-news.php:25
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/home.php:33
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/index.php:46
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-full-width.php:22
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page.php:16
+msgid "<p>Read the rest of this entry &raquo;</p>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-full-width.php:25
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page.php:17
+msgid "Edit This Page"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-news.php:34
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/page-news.php:35
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/paginate.php:9
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/paginate.php:19
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/paginate.php:10
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/paginate.php:20
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:10
+msgid "Member Login"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:14
+msgid "Username:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:16
+msgid "username here"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:18
+msgid "Password:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:26
+msgid "Lost your password?"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:26
+msgid "Create a new account"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:39
+msgid "Welcome Back"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/profiles.php:51
+msgid "Author Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:5
+msgid "Sorry, we can't find the category you're looking for at this URL. Please try selecting a menu item from above or to the side of this message to get where you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:14
+msgid "Sorry, we can't find the archive you're looking for at this URL. Please try selecting a menu item from above or to the side of this message to get where you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:23
+msgid "Sorry, we can't find the search keyword you're looking for. Please try selecting a menu item from above or to the side of this message to get where you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:31
+msgid "Sorry, we can't find the author you're looking for at this URL. Please try selecting a menu item from above or to the side of this message to get where you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:40
+msgid "Sorry, we can't find the post you're looking for at this URL. Please try selecting a menu item from above or to the side of this message to get where you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:49
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/result.php:58
+msgid "Sorry, we can't find the content you're looking for at this URL. Please try selecting a menu item from above or to the side of this message to get where you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/sidebar.php:17
+msgid "Featured Videos"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/sidebar.php:32
+msgid "Sidebar Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/sidebar.php:34
+#, php-format
+msgid "All you need to do is to visit your <a href=\"%s/wp-admin/widgets.php\">widget</a> tab replace this with your widget"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:1
+msgid "category:&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:2
+msgid "tags:&nbsp;"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:31
+msgid "No Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:31
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:31
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:34
+msgid "Email to friend"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:35
+msgid "Blog it"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/social.php:36
+msgid "Stay updated"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:11
+msgid "Most Commented"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:46
+msgid "Name for most comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:50
+msgid "Total to show: "
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:70
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:114
+msgid "says"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:140
+msgid "Name for recent comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:144
+msgid "Enable avatar?:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:146
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:436
+msgid "yes"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:147
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:437
+msgid "no"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:152
+msgid "Total to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:174
+msgid "Follow me"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:218
+msgid "Twitter Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:225
+msgid "Twitter ID:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:231
+msgid "Number Of Tweets:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:240
+msgid "Displays the last few tweets of your Twitter feed"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:254
+msgid "My Flickr"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:268
+msgid "view more showcase here"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:282
+msgid "Flickr ID"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:285
+msgid "Number of photos:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:290
+msgid "Displays the last few pictures of your Flickr feed"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:337
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:425
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:425
+msgid "*required"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:429
+msgid "Category ID:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:429
+msgid "*separate by commas [,]"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:434
+msgid "Enable Thumbnails?:<br /><em>*post featured images</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:441
+msgid "Total:"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:459
+msgid "Widget which allows multiple featured category"
+msgstr ""
+
+#: C:\xampp\htdocs\buddytest\wp-content\themes\wpmu-nelo/includes/widgets-functions.php:464
+msgid "Featured"
+msgstr ""
+

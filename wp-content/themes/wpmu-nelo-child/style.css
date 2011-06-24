@@ -1,0 +1,61 @@
+/*
+
+Theme Name: WPMU Nelo Child Theme
+Version: 2.1.4
+Theme URI: http://premium.wpmudev.org
+Description: <strong>WPMU Nelo Child Theme</strong> - A revolutionary customized CMS theme, features custom upload and crop images for your homepage and allowing you to create the perfect front page for your WordPress or WordPress MU site. Compatible with standalone WordPress installation and WordPress MU installation.
+Author: Richie KS (incsub)
+Author URI: http://www.dezzain.com
+WDP ID: 46
+Template: wpmu-nelo
+Tags: Two Columns, Right Sidebar, Fixed Width, Custom Homepage, Custom Colors, Custom Header, Theme Options, Threaded Comments
+
+
+Copyright 2007-2010 Incsub (http://incsub.com)
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+
+
+changelog
+v2.1.4
+- fixed load_theme_textdomain() localization work
+
+v2.1.3
+- add compatibility up to WordPress 3.0+
+- added new WordPress menu system support
+- added custom widget like recent post multi category, twitter adn flickr
+- added multi level subpage navigation
+- fix trac bug
+
+v2.1.2
+- compatible up to wp/wpmu 2.9.2
+- added load textdomain()
+- remove deprecated functions
+- added full witdh page template
+- replace theme option with style sync rather that php stylesheet
+- fixed custom homepage options
+
+v2.1.1
+- css fixed
+
+v2.1
+- Internationalized!
+
+v2
+- WPMU 2.8.3 ready!
+
+v1.1
+- Bugs fixed, options improved!
+
+v1.0
+- new released
+
+
+*/
+
+/* loading parent theme css */
+@import url(../wpmu-nelo/style.css);
+
+/* loading child theme css */
+@import url(child-style.css);

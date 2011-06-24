@@ -1,0 +1,67 @@
+[06-Dec-2010 15:28:36] PHP Warning:  fopen(/home/bizfrie1/public_html/bizboost/wp-content/themes/scruffy/style.css) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bizfrie1/public_html/bizboost/wp-includes/functions.php on line 4165
+[06-Dec-2010 15:28:36] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/bizfrie1/public_html/bizboost/wp-includes/functions.php on line 4168
+[06-Dec-2010 15:28:36] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/bizfrie1/public_html/bizboost/wp-includes/functions.php on line 4171
+[13-Dec-2010 11:07:46] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 3 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[13-Dec-2010 11:07:46] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 3 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[15-Dec-2010 12:02:33] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 12 made by wp_dashboard_quick_press_output, get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[15-Dec-2010 12:02:33] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 12 made by wp_dashboard_quick_press_output, get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[15-Dec-2010 12:02:33] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 30 made by wp_dashboard_quick_press_output, get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[15-Dec-2010 12:02:33] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 30 made by wp_dashboard_quick_press_output, get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[15-Dec-2010 12:02:33] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 45 made by wp_dashboard_quick_press_output, get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[15-Dec-2010 12:02:33] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 45 made by wp_dashboard_quick_press_output, get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[31-Jan-2011 13:29:58] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 52 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[31-Jan-2011 13:29:58] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 52 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[31-Jan-2011 13:29:58] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 84 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[31-Jan-2011 13:29:58] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 84 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[31-Jan-2011 13:34:05] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_CATEGORY' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_CATEGORY 
+        	WHERE category_id = 9 made by wp_delete_term, do_action, call_user_func_array, UserAccessManager->removeCategoryData
+[17-Feb-2011 11:14:28] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 100 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[17-Feb-2011 11:14:29] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 100 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[17-Feb-2011 11:14:29] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 104 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[17-Feb-2011 11:14:29] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 104 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[28-Feb-2011 15:00:17] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 117 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[28-Feb-2011 15:00:17] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 117 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[28-Feb-2011 15:00:17] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 118 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[28-Feb-2011 15:00:17] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 118 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[13-Jun-2011 11:51:59] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 136 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[13-Jun-2011 11:51:59] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 136 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[13-Jun-2011 11:52:00] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 142 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[13-Jun-2011 11:52:00] WordPress database error Table 'bizfrie1_wpfolio.DB_ACCESSGROUP_TO_POST' doesn't exist for query DELETE FROM DB_ACCESSGROUP_TO_POST 
+        	WHERE post_id = 142 made by get_default_post_to_edit, wp_delete_post, do_action, call_user_func_array, UserAccessManager->removePostData
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT * FROM wp_users WHERE user_login = 'admin' made by require_once, require_once, require_once, WP->init, wp_get_current_user, get_currentuserinfo, wp_validate_auth_cookie, get_userdatabylogin, get_user_by
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT * FROM wp_users WHERE user_login = 'admin' made by require_once, require_once, require_once, WP->init, wp_get_current_user, get_currentuserinfo, wp_validate_auth_cookie, get_userdatabylogin, get_user_by
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_product' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_style' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_menu_type' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_username' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_fallback_username' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_password' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_language' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_brand' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_append_data' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_header_background' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_header_color' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option
+[16-Jun-2011 13:04:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'addthis_options' LIMIT 1 made by require_once, require_once, require_once, do_action, call_user_func_array, addthis_init, get_option

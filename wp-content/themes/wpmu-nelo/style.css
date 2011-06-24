@@ -1,0 +1,371 @@
+/*
+Theme Name: WPMU Nelo
+Version: 2.1.4
+Theme URI: http://premium.wpmudev.org
+Description: A revolutionary customized CMS theme, features custom upload and crop images for your homepage and allowing you to create the perfect front page for your WordPress or WordPress MU site. Compatible with standalone WordPress installation and WordPress MU installation.
+Author: Richie KS (incsub)
+Author URI: http://www.dezzain.com
+WDP ID: 46
+Tags: Two Columns, Right Sidebar, Fixed Width, Custom Menu, Custom Homepage, Custom Colors, Custom Header, Theme Options, Threaded Comments
+
+
+Copyright 2007-2010 Incsub (http://incsub.com)
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+
+changelog
+v2.1.4
+- fixed load_theme_textdomain() localization work
+
+v2.1.3
+- add compatibility up to WordPress 3.0+
+- added new WordPress menu system support
+- added custom widget like recent post multi category, twitter and flickr
+- added multi level subpage navigation
+- fix trac bug
+
+v2.1.2
+- compatible up to wp/wpmu 2.9.2
+- added load textdomain()
+- remove deprecated functions
+- added full witdh page template
+- replace theme option with style sync rather that php stylesheet
+- fixed custom homepage options
+
+v2.1.1
+- css fixed
+
+v2.1
+- Internationalized!
+
+v2
+- WPMU 2.8.3 ready!
+
+v1.1
+- Bugs fixed, options improved!
+
+v1.0
+- new released
+
+
+*/
+body {font: 100% Helvetica, Arial, Tahoma; color: #1a1a1a; padding: 0px; background: #E4E4E4!important; margin: 0px;}
+#recent-comments .item-avatar { float:left; margin-right:10px; }
+:-moz-any-link:active {outline: none;}
+
+img {border: 0px none;}
+
+h1, h2, h3, h4, h5, h6 {font-family: Helvetica, Verdana;}
+
+h3 a {text-decoration: none;}
+
+.introbox .post-content, .introbox .post {border: 0px !important none !important; margin: 0px!important; padding: 0px!important;}
+
+.fix-browser {margin: 0px; padding: 0px 0px 1em; float: left; width: 100%;}
+
+#container .full-width, #container .full-width .page { margin: 0px; padding: 0px; width: 100%; border: 0px none !important;}
+
+#wrapper {font-size: 0.785em; margin: 0px auto 0em; width: 940px; padding: 0px;}
+
+#container {margin: 1.125em 0px 0px; padding: 20px 20px 15px; float: left; width: 900px; background: #FFF;}
+
+#header {margin: 0px; padding: 0px 0px 1em; float: left; width: 100%; height: 100px;}
+
+.site-title {float: left; width: 590px;}
+
+.custom-image-top {float: right; width: 300px; height: 100px; overflow: hidden;}
+
+.site-title h1 {font-size: 3em; font-weight: normal; margin: 0px; padding: 15px 0px 0px; float: left; width: 100%;}
+
+.site-title h1 a {color: #000000; text-decoration: none;}
+
+.site-title p {font-size: 1.025em; margin: 0px; padding: 0px; float: left; width: 100%; font-weight: 400;}
+
+#navigation {margin: 0px; padding: 0px; float: left; width: 100%; background: #252525;}
+
+#navigation .rss-feeds {margin: 0px; padding: 0px; float: right; height: 28px; width: 100px; line-height: 28px; font-size: 1em; color: #FFFFFF;}
+
+#navigation .rss-feeds a {display: inline-block; margin: 0px; padding: 0px 0px 0px 16px; color: #FFFFFF; text-decoration: none; background: url(images/rss.png) no-repeat left center;}
+
+#custom-img-header {margin: 0px; padding: 1em 0px 0px; float: left; height: 150px; width: 900px; overflow: hidden;}
+
+.content {margin: 0px; padding: 2em 0px; float: left; width: 100%;}
+
+#top-content {margin: 0px; padding: 0px 0px 1.5em; float: left; width: 100%;}
+
+#top-content .post-content {margin: 0px!important; padding: 0px!important;}
+
+#bottom-content {margin: 0px; padding: 1.5em 0px 2em; float: left; width: 100%; border-top: 1px solid #DDD;}
+
+#bottom-content a {color: #660000; text-decoration: underline;}
+
+#bottom-content a:hover {color: #000000; text-decoration: underline;}
+
+#footer {background: #252525; margin: 0px; padding: 1%; float: left; width: 98%; color: #FFFFFF; font-size: 0.85em;}
+
+#footer a {color: #FFFFFF; text-decoration: none;}
+
+#footer a:hover {color: #FFFFFF; text-decoration: underline;}
+
+.introbox {float: left; width: 635px; font-size: 1em; line-height: 20px; padding-right: 10px; border-right: 1px solid #DDDDDD;}
+
+.introbox p {margin-bottom: 1.5em;}
+
+.introbox img {margin: 0px 15px 15px 0px; padding: 0px; float: left;}
+
+#custom-intro-image {height: 250px; width: 350px; margin: 0px; padding: 0px; float: left;}
+
+#intro-text {float: right; width: 278px; margin: 0px; padding: 0px 10px; border-right: 1px solid #eee;}
+
+.introbox a {color: #660000; text-decoration: underline;}
+
+.introbox h2 {font-size: 2.25em; margin: 0px 0px 10px; padding: 0px; font-weight: 400; line-height: 100%;}
+
+.introbox h2 a {color: #000; text-decoration: none;}
+
+.introbox h2 a:hover {color: #663300; text-decoration: none;}
+
+#intro-text p {font-size: 1em; line-height: 20px; margin: 0px; padding: 12px 0px 0px; float: left; width: 100%;}
+
+#top-right-widget object {margin: 0px; padding: 0px; float: left; height: auto; width: 100%;}
+
+#top-right-widget embed {margin: 0px; padding: 0px; float: left; height: auto; width: 100%;}
+
+#top-right-widget table {text-align: center; margin: 0px; padding: 0px; width: 100%;}
+
+#top-right-widget {margin: 0px; padding: 0px; float: right; width: 240px;}
+
+.custom-bottom-image a {margin: 0px; padding: 0px; float: left; width: 100%; overflow: hidden;}
+
+#box1 {margin: 0px; float: left; width: 290px; padding-right: 10px;}
+
+#box2 {margin: 0px; float: left; width: 278px; padding-right: 10px; padding-left: 10px; border-left: 1px solid #ededed; border-right: 1px solid #ededed;}
+
+#box3 {margin: 0px; float: left; width: 290px; padding-right: 0px; padding-left: 10px;}
+
+.itembox {float: left; width: 300px; padding: 0px; overflow: hidden;}
+
+.itembox img {margin-bottom: 10px;}
+
+.itembox h2 {font-size: 1.25em; margin: 0px; padding: 0px; float: left; width: 100%;}
+
+.itembox h3 {text-transform: capitalize;}
+
+.itembox p {font-size: 1em; line-height: 21px; margin: 0px; padding: 10px 0px 25px; float: left; width: 100%;}
+
+#footer .fleft {margin: 0px; padding: 0px; float: left; width: 600px;}
+
+#footer .fright {margin: 0px; padding: 0px; float: right; width: 280px; text-align: right;}
+
+#post-entry {margin: 0px; padding: 0px 15px 15px 0px; float: left; width: 578px; border-right: 1px solid #ededed;}
+
+#post-entry h2 {font-size: 1.35em; margin: 0px 0px 1em; padding: 0px; float: left; width: 100%;}
+
+#post-entry h2 a {color: #660000; text-decoration: underline;}
+
+h2#post-header {font-size: 15px;}
+
+#sidebar {margin: 0px; padding: 0px 0px 0px 10px; float: right; width: 285px;}
+
+.list .textf {padding: 1%; width: 90%; background: #FFFFFF; margin: 0px 0px 10px; border-top: 2px solid #999999; border-right: 2px solid #999999; border-bottom: 1px solid #CCCCCC; border-left: 1px solid #CCCCCC;}
+
+ul.list {margin: 0px; padding: 0px; float: left; width: 100%; list-style: none;}
+
+ul.list a {color: #660000; text-decoration: underline;}
+
+ul.list li {margin: 0px 0px 25px; padding: 0px; float: left; width: 100%; list-style: none;}
+
+ul.list ul {margin: 0px; padding: 0px; float: left; width: 100%; list-style: none;}
+
+ul.list h3 {font-size: 1.25em; margin: 0px 0px 15px; padding: 0px 0px 5px; float: left; width: 100%; line-height: 1.4em; border-bottom: 1px solid #dedede;}
+
+ul.list li ul li {font-size: 1em; line-height: 18px; margin: 0px 0px 8px; padding: 0px; float: left; width: 100%;}
+
+ul.list li ul li ul li {margin: 8px 0px 0px; padding: 0px; float: left; width: 100%; font-size: 1em;}
+
+ul.list li#tag_cloud a {text-decoration: none!important;}
+
+ul.list li #wp-calendar {text-align: center; margin: 0px; padding: 0px; width: 100%; float: left;}
+
+ul.list li select {margin: 0px; padding: 3px; width: 90%; background: #FFFFFF; border: 1px solid #aaa;}
+
+#sidebar a {color: #660000; text-decoration: underline;}
+
+.list form {margin: 0px; padding: 0px; float: left; width: 100%;}
+
+.list label {font-size: 12px; font-weight: bold;}
+
+.list input {font-family: Arial, Tahoma, "Lucida Sans";}
+
+.list p {margin: 0px; padding: 0px;}
+
+p#profile-avatar {margin: 0px 10px 0px 0px; padding: 0px; float: left!important;}
+
+p#profile-avatar img {float: left!important; padding-right: 10px;}
+
+#profile-stuff {margin: 0px; padding: 0px; float: left!important; line-height: 20px;}
+
+#sidebar a:hover {color: #000000; text-decoration: none;}
+
+#sidebar object {margin: 0px; padding: 0px; float: left; height: auto; width: 100%;}
+
+#sidebar embed {margin: 0px; padding: 0px; float: left; height: auto; width: 100%;}
+
+#sidebar table {text-align: center; margin: 0px; padding: 0px; width: 100%;}
+
+.content a:hover {color: #000033; text-decoration: none!important;}
+
+div.post, div.page {margin: 0px 0px 2em; padding: 0px 0px 2em; float: left; width: 100%; border-bottom: 1px solid #eee;}
+
+div.post a, div.page a {color: #990000; text-decoration: underline;}
+
+div.post a:hover, div.page a:hover {color: #CC0033; text-decoration: none;}
+
+h1.post-title {font-size: 2em; line-height: 110%; margin: 0px; padding: 0px; float: left; width: 100%;}
+
+h1.post-title a {color: #000000; text-decoration: none;}
+
+h1.post-title a:hover {color: #990000; text-decoration: none;}
+
+.post-author {font-size: 0.85em; margin: 0px; padding: 0px; float: left; width: 100%; line-height: 18px;}
+
+.post-content {font-size: 1.125em; margin: 0px; padding: 8px 0px 1em; float: left; width: 100%; line-height: 1.65em;}
+
+.post-content p {margin: 0px 0px 20px;}
+
+.post-content img {border: 0px none; max-width: 100%;}
+
+.post-category {margin: 0px; padding: 0px 0px 8px; float: left; width: 100%; font-size: 1em;}
+
+.post-tag {margin: 0px; padding: 0px 0px 8px; float: left; width: 100%; font-size: 1em;}
+
+.post-category a {font-weight: normal; text-decoration: underline;}
+
+.post-tag a {font-weight: normal; text-decoration: underline;}
+
+#comments-template {margin: 0px; padding: 0px; float: left; width: 100%;}
+
+#comments-template h4 {font-size: 1.65em; line-height: 1.8em; margin: 0px 0px 10px; padding: 0px; float: left; width: 100%; text-transform: capitalize;}
+
+#comments-template blockquote {text-decoration: none; margin: 10px 0px 10px 15px; padding: 10px 0px 0px 5px; clear: both; background: url(none); font: normal 1em/18px Georgia, "Times New Roman", Helvetica, sans-serif;}
+
+.com {margin: 0px 0px 20px; padding: 0px 0px 20px; float: left; width: 98%; border-bottom: 1px solid #eee;}
+
+.com-avatar {margin: 0px; padding: 0px; float: left;}
+
+.com-avatar img {padding: 3px; border: 1px solid #efefef;}
+
+.com-block {margin: 0px; padding: 0px 0px 0px 10px; float: left; overflow: hidden; width: 490px;}
+
+.com-author {margin: 0px; padding: 0px; float: left; width: 100%; font-weight: bold; font-size: 1em; line-height: 18px;}
+
+.com-block a {font-weight: normal; color: #660000; text-decoration: underline;}
+
+.com-block a:hover {font-weight: normal; color: #990000; text-decoration: none;}
+
+.com-text {margin: 0px; padding: 1em 0px; float: left; width: 100%; font-size: 1em; line-height: 18px;}
+
+.com-alt {margin: 0px 0px 20px; padding: 10px 0px; float: left; width: 98%; border-bottom: 1px solid #eee;}
+
+h4#pingback {margin: 25px 0px 20px; padding: 0px;}
+
+.ping {float: left; width: 90%; margin: 0px 0px 3em; padding: 0px; list-style: none;}
+
+.ping li {margin: 0px 0px 10px; padding: 0px;}
+
+.ping a {color: #660000; text-decoration: underline;}
+
+.ping a:hover {color: #990000; text-decoration: none;}
+
+h4#feedback {margin: 30px 0px 0px; padding: 0px;}
+
+h4#respond {margin: 30px 0px 0px; padding: 0px;}
+
+.notify {margin: 0px 0px 25px; padding: 0px; float: left; width: 100%;}
+
+.notify a {color: #660000; text-decoration: underline;}
+
+.notify a:hover {color: #990000; text-decoration: none;}
+
+#comment-form {margin: 0px; padding: 0px; float: left; width: 100%;}
+
+#comment-form label {font-size: 1em; font-weight: 500; margin: 0px; padding: 0px;}
+
+#comment-form label a {color: #660000; text-decoration: underline;}
+
+#comment-form label span {color: #990000; font-weight: normal;}
+
+#comment-form p {margin: 0px 0px 10px; padding: 0px;}
+
+#comment-form .intext {padding: 3px 2px; width: 300px; background: #FFFFFF; border: 1px solid #C5C5C5; font-family: Arial, Geneva, Helvetica, Verdana; color: #333333; margin: 0px 0px 15px;}
+
+#comment-form .inarea {margin: 5px 0px 0px; padding: 0px; width: 400px; height: 200px; background: #FFFFFF; border: 1px solid #C5C5C5; font: 1em Arial, Tahoma, "Lucida Sans"; color: #333333;}
+
+#comment-form .inbutton {font: 1.025em Arial, Tahoma, "Lucida Sans"; color: #000000; padding-right: 7px; padding-left: 7px;}
+
+.post-social {margin: 0px; padding: 8px 0px; float: left; width: 100%;}
+
+.addthis-blk {margin: 0px; padding: 8px 0px; float: left; width: 100%;}
+
+.post-social p {margin: 0px 5px 0px 0px; float: left; display: block; height: 22px; color: #FFFFFF; text-decoration: none; text-align: center; width: 24px;}
+
+.post-social p a {color: #FFFFFF; text-decoration: none; display: block; margin: 0px; padding: 0px; float: left; height: 22px; width: 24px;}
+
+.digg {background: url(images/socials/social.gif) -77px;}
+
+.delicious {background: url(images/socials/social.gif) -50px;}
+
+.stumble {background: url(images/socials/social.gif) -23px;}
+
+.tech {background: url(images/socials/social.gif) -1px;}
+
+.blinklist {background: url(images/socials/blinklist.png) no-repeat center;}
+
+.blogmark {background: url(images/socials/blogmarks.png) no-repeat center;}
+
+.bumpzee {background: url(images/socials/bumpzee.png) no-repeat center;}
+
+.dzone {background: url(images/socials/dzone.png) no-repeat center;}
+
+.furl {background: url(images/socials/furl.png) no-repeat center;}
+
+.netscape {background: url(images/socials/netscape.gif) no-repeat center;}
+
+.netvouz {background: url(images/socials/netvouz.png) no-repeat center;}
+
+.reddit {background: url(images/socials/reddit.png) no-repeat center;}
+
+.scopeo {background: url(images/socials/scoopeo.png) no-repeat center;}
+
+.scuttle {background: url(images/socials/scuttle.png) no-repeat center;}
+
+.spurl {background: url(images/socials/spurl.png) no-repeat center;}
+
+.taggly{background: url(images/socials/taggly.png) no-repeat center;}
+
+.thisnext {background: url(images/socials/thisnext.png) no-repeat center;}
+
+.wists {background: url(images/socials/wists.png) no-repeat center;}
+
+.yahooweb {background: url(images/socials/yahoomyweb.png) no-repeat center;}
+
+.post-mail {margin: 0px; padding: 0px; float: left; height: 26px; width: 100%; font-size: 0.85em!important;}
+
+.post-mail ul {margin: 0px; padding: 0px; float: left; width: 100%; list-style: none;}
+
+.post-mail ul li {margin: 0px 15px 0px 0px; float: left; list-style: none; line-height: 26px; display: inline-block; height: 26px;}
+
+.post-mail a {color: #212121; text-decoration: none; font-weight: 400;}
+
+.post-mail a:hover {color: #CC0033; font-weight: normal!important; text-decoration: underline;}
+
+.mycomment {background: url(images/socials/comment.png) no-repeat left center; padding-left: 16px;}
+
+.myemail {background: url(images/socials/email.png) no-repeat left center; padding-left: 20px;}
+
+.myblogit {background: url(images/socials/feed-n.png) no-repeat left center; padding-left: 18px;}
+
+.myupdate {background: url(images/socials/feed-n.png) no-repeat left center; padding-left: 16px;}
+
+div.introbox #frontpost .post-content {font-size: 1em !important;}

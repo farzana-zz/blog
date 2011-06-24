@@ -1,0 +1,103 @@
+/* IE6 css fixer v0.6: Fri, 30 Oct 2009 19:30:28 +0100 */
+
+/* ============================================= */
+/* safe settings                                 */
+
+/* add display:inline to floated elements */
+#inner_page,
+#content,
+#sidebar,
+#sidebar-top,
+#primary-sidebar,
+#sidebar-bottom,
+#content-top,
+#content-middle,
+#content-bottom,
+#blog-title,
+#header,
+#footer,
+#top_navigation .search,
+#top_navigation ul li,
+#inside_footer_content,
+#footer_content ul,
+#footer_content .widget,
+#footer_content .widget li a,
+#content div.entry-content,
+#content .entry-editlink,#content .comment-editlink,
+#content .hentry:hover .entry-editlink,#content .hentry:hover .comment-editlink,
+#content .comment-feed,
+.alignleft,
+.alignright,
+.next a,
+.previous a,
+#content label,
+#footer label,
+.cal,
+.title_container,
+.title_container h1,.title_container address,
+.comment-top,
+.avatar,
+.checklist li p,
+.checklist li,
+#content .pagination .next,#attachment .nav .next,
+.by-line,#sidebar .widget {display:inline;}
+
+/* convert min height values */
+#footer {height:410px;}
+
+
+/* fix negative margins */
+#sidebar,
+#inner-primary-sidebar,
+#inner-content-middle,
+#footer_content ul,
+#footer_content .widget ul ul,
+#content .by-line,#content .filed {position:relative; zoom:1;}
+
+/* add zoom:1 to pos:relative elements */
+#content ol.comments .meta {zoom:1;}
+
+#container3	{
+
+ 	background:none !important;
+
+}
+#top_navigation	{
+    background: rgb(69, 88, 110) !important;
+}
+input[type="text"], textarea	{
+    background: rgb(69, 80, 110) !important;
+}
+
+#sidebar-top	{
+background: url(../img/sidebar-top-trans.jpg) !important;
+
+}
+
+#primary-sidebar	{
+
+	background: url(../img/sidebar-middle-trans.jpg) !important;
+
+}
+
+
+#sidebar-bottom	{
+	background: url(../img/sidebar-bottom-trans.jpg) !important;
+
+}
+
+#content-top	{
+
+	background: url(../img/content-top-trans.jpg) !important;
+
+}
+
+#content-middle	{
+
+	background: url(../img/content-middle-trans.jpg) !important;
+
+}
+
+#content-bottom	{	background: url(../img/content-bottom-trans.jpg) !important;
+
+}

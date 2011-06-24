@@ -1,0 +1,239 @@
+= Versions history =
+This is local copy of file https://code.google.com/p/wp-constructor/wiki/ConstructorHistory
+
+== 1.5.10 ==
+  * Return PHP4 compatability
+  * Small changes in simple layout:
+    *  added social buttons
+    *  removed border around post title
+  * Fixed  issue #153
+
+== 1.5.9 ==
+
+  * Small fixes in subthemes
+  * Removed compatibility stuff
+  * Replaced file_get/put_functions with WP functions
+
+== 1.5.8 ==
+
+  * Remove compatibility stuff
+  * Replace file_get/put_content with WP_Filesystem
+
+== 1.5.8 ==
+  * Added more Google face fonts
+  * Fixed "tags" option for content
+  * Improved options for social bookmarks
+  * Added this file to repository
+  * Minor changes in readme.txt
+  * Avoid validator warnings
+
+== 1.5.7 ==
+  * Added more options for post metainformation
+  * "Social" integration
+  * Change transparent properties (now is image for all browsers)
+  * Fixed navigation for single post (small mistake)
+
+== 1.5.6 ==
+  * Hot fix for CSS file
+
+== 1.5.5 ==
+  * Many small fixes (repository requriements)
+  * Fix for wordpress 3.1
+
+= 1.5.0 =
+  * Create notice for search field in menu
+  * Change save process, now constructor use folder blogs.dir for save custom themes and cache.
+  * Change donation address
+
+==== Theme Changes ====
+For update themes you should be change path to images in theme `config.php` - remove `themes/%theme_name%/` from image path:
+{{{
+// before
+"images"   => array(
+    "header"   => array('src'=>'themes/default/header.jpg', 'pos'=>'right top', 'repeat'=>'no-repeat'),
+),
+
+// after
+"images"   => array(
+    "header"   => array('src'=>'header.jpg', 'pos'=>'right top', 'repeat'=>'no-repeat'),
+),
+
+}}}
+
+
+== 1.4.4 ==
+  * Added Hungarian, Catalon, Dutch languages
+  * Copy sp_SP as es_ES language
+
+== 1.4.3 ==
+  * Rebuild jQuery UI
+
+== 1.4.2 ==
+  * Added jQuery Layout plugin
+  * Added new layout "Thumb"
+  * Added CSS for editor
+  * Added HU translation
+  * More fonts from Google Font Directory, and small changes in UI on "Fonts" tab
+  * Rename tabs: - "Layout" -> "Templates" - "Sidebar" -> "Layout"
+  * Create new color for form elements
+  * Update layout's thumbnails
+  * Small navigation refactoring
+  * Fixed Javascript issue on admin panel
+  * Fixed small CSS issues
+
+= 1.4.0 =
+  * Changed "Layout" interface (thx to Platforma theme for good idea)
+  * Small navigation refactoring
+
+= 1.3.0 =
+  * Added Hungarian translation
+  * Rebuild sidebar layout creation system (more flexible for advanced users)
+  * Refactoring of CSS generator
+  * Small fix in nix gray theme
+
+
+== 1.2.4 ==
+  * Small refactoring in library
+  * Hotfix for comments
+
+== 1.2.2 ==
+  * Hotfix for default slideshow
+
+= 1.2.0 =
+
+  * Wordpress 3.0 is required
+  * Removed some old functions
+  * Updated to HTML5
+
+= 1.1.0 =
+
+  * Critical fix for MU sites
+  * Added support of Google Font Face API
+  * Added shortcodes subpages/attachments/widgets
+  * Return the_date function in templates
+  * Updated navigation menu (WP 3.0 feature)
+
+
+== 1.0.3 ==
+  * Added printable version
+
+= 1.0.0 =
+  * Updated all subthemes
+  * Updated translation for EN, RU, UA
+
+== 0.9.9 ==
+  * Removed deprecated functional (support only Wordpress 2.9+)
+
+== 0.9.8 ==
+  * Added options for page and post layouts
+  * Added RTL CSS file
+
+== 0.9.5 ==
+  * Added Wordpress 3.0 navigation menu support
+  * Added new top menu feature - stretch across the width of site
+  * Updated List layout
+  * CSS classes for more flexible layout development
+  * Refactored of CSS (rename some classes in header; remove old code)
+  * Fixed issue with drop-down menu in IE8 (and IE7 w/out transparency feature now :( )
+  * SEO optimization
+  * Added new navigation.php file - for easy integration plugins like wp-pagenavi
+  * Added new sidebar-extra.php - for changes w/out widgets
+
+= 0.9.0 =
+  * Improved options of top menu
+
+== 0.7.4 ==
+  * hotfix for comments
+
+== 0.7.2 ==
+  * Added hide title option
+
+= 0.7.0 =
+  * big refactoring
+  * ...
+
+== 0.6.7 ==
+  * update Russian translation
+  * fixed small issues
+
+== 0.6.6 ==
+  * added Catalan translation
+  * update Author page
+  * issue #19
+
+== 0.6.4 ==
+  * updated languages
+  * issue #16
+  * issue #17
+
+== 0.6.3 ==
+  * added 'header'  widget sidebar
+  * small fixes in default theme
+  * small fixes in main style.css
+
+== 0.6.2 ==
+
+  * added French localization
+  * added more options for images (repeat option available for all images)
+  * auto-generated thumbnails is back
+  * added options for "List" layout
+  * added global WP date format settings
+  * small bug fixes in layout
+  * small UI changes
+
+==== Theme Changes ====
+  * changes in images section, now available more options
+  `"images"   => array( // background images
+        "body" => array('src'=>'', 'pos'=>'left top', 'repeat'=>'repeat', 'fixed'=>false), <br/>
+        "wrap" => array('src'=>'', 'pos'=>'center top', 'repeat'=>'no-repeat', 'fixed'=>false), <br/>
+        "wrapper"  => array('src'=>'', 'pos'=>'left top', 'repeat'=>'no-repeat'), <br/>
+        "sidebar"  => array('src'=>'', 'pos'=>'right bottom', 'repeat'=>'no-repeat'), <br/>
+        "footer"   => array('src'=>'', 'pos'=>'right bottom', 'repeat'=>'no-repeat'), <br/>
+    )`
+  * changes in content section
+  `"content"   => array(    // content
+       "author" => 0,       // - link to author page <br/>
+       'thumb' =>  array ('auto'   => false), // - autogenerate thumbnails <br/>
+       'list'  =>  array (                    // list layout <br/>
+              'filter' => false,  // - strip HTML tags <br/>
+              'thumb'  => array ( 'pos' => 'left', 'noimage' => false, ), // - thumbnail position and "No Image" option <br/>
+                         )),`
+
+== 0.6.1 ==
+
+  * added categories to head menu (optional)
+  * added search form to head menu (optional)
+  * remove Example theme from release (moved to Downloads Page)
+  * small fixes in slideshow and drop-down menu
+
+
+==== Theme Changes ====
+  * changes in menu section, option `type` is depricated
+  `"menu"     => array(             // menu with links <br/>
+        "flag" => 1,         // - enable/disable <br/>
+        "home" => true,     // - link to home page <br/>
+        "rss"  => true,     // - link to RSS <br/>
+        "search" => true,    // - search form <br/>
+        "pages"      => array('depth'=>0), <br/>
+        "categories" => array('depth'=>3, 'group'=>1) <br/>
+   ),`
+
+= 0.6.0 =
+
+  * remove automatic generated thumbnails - now use `thumb` and `thumb-list` custom fields - it's more fast and flexible
+  * remove superfish jQuery plugin - write custom code
+  * added autogenerated classes for body ([http://wpengineer.com/wordpress-28-body_class-automatic_feed_links/ docs])
+  * added support `category_name` custom field for pages
+  * added `fixed` options for `body` and `background` images
+  * added `header` height option
+  * added four opacity types
+  * IE6 isn't support now, please update your browser to modern
+
+==== Theme Changes ====
+  * add header height option:
+  `"layout" => array("header" => 140, ...)`
+  * add fixed option:
+  `"images" => array(
+                    "body" => array(..., 'fixed'=>false), <br/>
+                    "wrap" => array(..., 'fixed'=>false),
+ ...)`

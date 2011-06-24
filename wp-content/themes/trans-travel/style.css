@@ -1,0 +1,428 @@
+/* 
+Theme Name: Trans-Travel
+Theme URI: http://www.rankerzseo.com/themes/index.php?wptheme=Trans-Travel
+Description: Free wordpress theme with transparent text area and a beautiful background image. Just replace the image file for your own background. SEO friendly design by <a href="http://www.rankerzseo.com">Rankerz SEO Company</a> 
+Version: 1.0.2
+Tags: transparent, fixed width, two columns, widgets, valid CSS, widget ready, simple, clean, travel, image, valid XHTML  
+*/
+
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+a:link {
+	color: #12163E;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF0000;
+}
+
+a:visited {
+	color: #12163E;
+}
+
+body {
+	
+	background: #000018 url(images/back_all1.jpg) no-repeat;
+	background-attachment:	fixed;
+	background-position:	top left;
+	font: 12px Arial, Tahoma, Georgia, "Times New Roman", Times, serif;
+	color: #000;
+	margin-right: 30px;
+}
+
+#content
+{
+height: 634px;
+}
+
+#main
+{
+float: right;
+width: 634px;
+background-image: url(images/table-mid.png);
+background-repeat:		repeat-y;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+#header {
+	height: 160px;
+	float: left;		
+}
+
+#menu
+{
+float: left;
+width: 584px;
+height: 55px;
+padding-left: 50px;
+padding-top: 10px;
+background: url(images/menu.png) no-repeat;
+}
+
+#menu ul {
+	list-style: none;
+	
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: right;
+	width: 85px;
+	height: 31px;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 22px;
+
+}
+
+#menu a:hover {
+	width: 85px;
+    height: 31px;
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+
+#logo {
+
+width: 229px;
+height: 100px;
+float: left;
+padding-top: 60px;
+padding-left: 40px;
+}
+
+
+#logo a {
+	text-decoration: none;
+	font-style: italic;
+	font-size: 36px;
+	color: #FFFFFF;
+}
+#logo H2 
+{
+font-size: 12px;
+color: #ffffff;
+}
+
+#right
+{
+	float: right;
+	padding: 10px;
+	width: 215px;
+	background-image: url(images/sidebar-back.png);
+	background-repeat:		repeat-y;
+}
+
+#right H3
+{
+width: 200px;
+height: 39px;
+font-size: 14px;
+font-weight: bold;
+padding-left: 15px;
+padding-top: 15px;
+text-transform: uppercase;
+color: #ffffff;
+background: url(images/title.gif) no-repeat
+}
+
+
+
+#right ul {
+	border: 0px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	list-style: none;
+}
+
+#right li  {
+	padding: 4px 10px;
+
+}
+
+
+#right H4
+{
+font-size: 10px;
+}
+
+#right a {
+	color: #cd310e;
+	font-size: 12px;
+	font-weight:400;
+}
+#right a:visited {
+	color: #cd310e;
+	font-size: 12px;
+	font-weight:400;
+}
+
+#right p
+{
+padding: 10px;
+}
+
+#calendar1 {
+	padding: 20px 10px 20px 10px;
+}
+
+#calendar table {
+	width: 100%;
+	text-align: center;
+}
+
+#calendar thead {
+
+}
+
+#calendar tbody td {
+	border: 1px solid #999999;
+}
+
+#calendar #prev {
+	text-align: left;
+}
+
+#calendar #next {
+	text-align: right;
+}
+
+#calendar tfoot a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#calendar #today {
+	background: #ff0000;
+	border: 1px solid #ff0000;
+	font-weight: bold;
+	color: #ffffff
+}
+
+
+#left
+{
+width: 370px;
+padding-left: 20px;
+}
+
+#left H4
+{
+	margin: 0;
+	padding: 0px;
+	font-size: 12px;
+	color: #1D3176;
+        font-weight: normal;
+       font-family: Tahoma, Georgia, "Times New Roman", Times, serif
+}
+
+#left a
+{
+color: #1D3176;
+text-decoration: underline;
+}
+
+#left p {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+}
+
+#left h2 {
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	color: #1D3176;
+        font-weight: normal;
+        font-family: Tahoma, Georgia, "Times New Roman", Times, serif
+}
+.date {
+	text-align: right;
+	color: #1D3176;
+	font-size: 11px;
+}
+
+.date a {
+	color: #1D3176;
+}
+
+#left ol, #left ul
+{
+margin-left: 20px;
+}
+
+
+
+#footer {
+	clear: both;
+	border-top:#CCCCCC dashed;
+	height: 47px;
+	clear: both;
+	padding-top: 20px;
+}
+
+#footer p {
+	margin: 0;
+	font-size: 10px;
+	text-align: center;
+	color: #999;
+}
+
+#footer a {
+	color: #999;
+}
+
+.widget_search
+{
+
+}
+
+.post-body
+{
+
+	margin-top:15px;
+}
+
+li.cat-item
+
+{
+	padding-left:35px;
+}
+
+div.navigationbottom
+
+{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+div.navigationbottom .leftnav
+{
+	float:left;
+}
+
+div.navigationbottom .rightnav
+{
+	float:right;
+}
+
+/************* Comments ***************/
+#commentform textarea 
+{
+	width: 93%;
+	border:2px solid #1D3176;
+	padding:10px;
+}
+
+#submit
+{
+	width: 95px;
+	height: 26px;
+	text-align: center;
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 12px;
+	text-transform: uppercase;
+	background: url(images/submit.gif) no-repeat;
+	overflow:hidden;
+        vertical-align: top;
+	border:none;
+}
+
+#submit:hover
+{
+	background: url(images/submit_r.gif) no-repeat;
+}
+
+div.imgbox
+{
+	float:left;
+	margin:5px;
+}
+
+/**************** IE 7 *******************/
+li.cat-item
+{
+	font-size:12px;
+	font-weight:normal;
+}
+
+#calendar table, #left #wp-calendar
+{
+	font-size:12px;
+	font-weight:normal;
+}
+
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption-dd {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
+
+#left .categor
+{
+padding: 5px;
+border-top:#666666 dotted;
+border-bottom:#666666 dotted;
+margin-top: 10px;
+margin-bottom: 10px
+}
+
+#commentlist li
+{
+margin-left: 20px;
+padding-bottom: 20px;
+}
+
+#author, #email, #url
+{
+border: 1px solid #666666
+}
