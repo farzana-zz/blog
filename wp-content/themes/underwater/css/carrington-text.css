@@ -975,15 +975,4 @@ input[type="button"], input[type="submit"]	{
 	float:left;
 }
 
-.excerpt p	{
-	display:none;
-}
-#sidebar ol li,#sidebar ol 	{
-	padding:0;
-	margin:0;
-}
-
-#sidebar img	{
-margin:0 0 10px;
-}
 
